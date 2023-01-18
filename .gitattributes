@@ -1,0 +1,2 @@
+*.pdiparams filter=lfs diff=lfs merge=lfs -text
+model_for_predict/linear.pdiparams filter=lfs diff=lfs merge=lfs -text
